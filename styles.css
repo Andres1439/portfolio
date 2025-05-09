@@ -337,7 +337,7 @@
   }
   
   .project-card {
-    background-color: #1e3a5f;
+    background-color: #20262e;
     border-radius: 8px; /* Reducido el radio del borde */
     overflow: hidden;
     transition: var(--transition);
@@ -350,7 +350,7 @@
   .project-card:hover {
     transform: translateY(-5px); /* Reducido el movimiento hacia arriba */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    background-color: #2a4d76;
+    background-color: #26282b;
   }
   
   .project-image {
